@@ -1,0 +1,3 @@
+C:\Projects\C#\RTSP_IPCam\RTSP_IPCam\obj\x64\Debug\RTSP_IPCam.MainForm.resources
+C:\Projects\C#\RTSP_IPCam\RTSP_IPCam\obj\x64\Debug\RTSP_IPCam.Properties.Resources.resources
+C:\Projects\C#\RTSP_IPCam\RTSP_IPCam\obj\x64\Debug\RTSP_IPCam.csproj.GenerateResource.Cache

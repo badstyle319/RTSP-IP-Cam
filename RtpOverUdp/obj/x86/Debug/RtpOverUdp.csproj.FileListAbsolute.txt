@@ -1,0 +1,10 @@
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\bin\Debug\RtpOverUdp.exe
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\bin\Debug\RtpOverUdp.pdb
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.csprojResolveAssemblyReference.cache
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.MainForm.resources
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.Properties.Resources.resources
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.csproj.GenerateResource.Cache
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.exe
+C:\Projects\C#\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.pdb
+C:\Users\CLH01\Desktop\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.exe
+C:\Users\CLH01\Desktop\RTSP_IPCam\RtpOverUdp\obj\x86\Debug\RtpOverUdp.pdb
